@@ -14,4 +14,6 @@ jobs:
           node-version: "16.x"
       - name: Release to GitHub Pages
         run: |
+          yarn install
+          yarn run build
           GIT_USER=juyeong-s yarn deploy

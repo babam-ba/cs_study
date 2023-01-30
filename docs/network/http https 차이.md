@@ -40,3 +40,8 @@ HTTPS 연결 과정(Hand-Shaking)에서는 먼저 서버와 클라이언트 간�
 ### HTTPS의 추가적인 장점
 
 HTTPS를 사용하면 SEO 측면에서도 혜택을 볼 수 있다. 2014년 이후 구글이 HTTPS 웹사이트에 가산점을 주는 이유도 결국 실제 이용하는 사용자(유저)들이 https로 만들어진 웹사이트가 더 안전하다고 느끼기 때문에 방문율을 높일 수 있기 때문이다.
+
+## 참고
+
+[https://mangkyu.tistory.com/98](https://mangkyu.tistory.com/98)
+[https://www.digicert.com/kr/what-is-ssl-tls-and-https](https://www.digicert.com/kr/what-is-ssl-tls-and-https)

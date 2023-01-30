@@ -121,7 +121,5 @@ age가 null로 변한다.
 ## 참고
 
 [https://joshua1988.github.io/web-development/http-part1/](https://joshua1988.github.io/web-development/http-part1/)
-[https://mangkyu.tistory.com/98](https://mangkyu.tistory.com/98)
-[https://www.digicert.com/kr/what-is-ssl-tls-and-https](https://www.digicert.com/kr/what-is-ssl-tls-and-https)
 [https://tecoble.techcourse.co.kr/post/2020-08-17-put-vs-patch/](https://tecoble.techcourse.co.kr/post/2020-08-17-put-vs-patch/)
 [https://programmer93.tistory.com/39](https://programmer93.tistory.com/39)
